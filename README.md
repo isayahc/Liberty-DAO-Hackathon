@@ -1,5 +1,11 @@
 # Liberty-DAO-Hackathon
 
+## Development Information
+
+to set up your gmail for google calender you need to start by going here:
+https://console.cloud.google.com/
+
+
 
 ## References
 - https://near.social/libertydao.near/widget/boroughs.index
