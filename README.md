@@ -3,7 +3,8 @@
 ## Development Information
 
 to set up your gmail for google calender you need to start by going here:
-https://console.cloud.google.com/
+- https://superagi.com/docs/Toolkit/SuperAGI%20Toolkits/google_calendar
+- https://console.cloud.google.com/
 
 
 
